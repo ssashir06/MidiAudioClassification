@@ -34,7 +34,7 @@ And then a Jupyter Notebook URL will be displayed in the console.
 - python3
 ```bash
 sudo apt update
-sudo apt install python3 python3-venv python3-dev ffmpeg gcc
+sudo apt install python3 python3-venv python3-dev ffmpeg gcc build-essential
 ```
 
 ## Setup and run
