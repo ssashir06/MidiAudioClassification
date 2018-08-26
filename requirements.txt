@@ -34,7 +34,7 @@ pkg-resources==0.0.0
 prometheus-client==0.3.1
 prompt-toolkit==1.0.15
 ptyprocess==0.6.0
--e git+https://github.com/ssashir06/pyAudioAnalysis.git@fdaccdcbeb522b8fba53735b30a0f817b30e2fa7#egg=pyAudioAnalysis
+-e git+https://github.com/tyiannak/pyAudioAnalysis.git@64e2a92be49555aad6f0df0f32c45a6e6df9ed89#egg=pyAudioAnalysis
 pydub==0.22.1
 Pygments==2.2.0
 pyparsing==2.2.0
